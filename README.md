@@ -1,8 +1,8 @@
 ### Hi there, I'm InYoung Sim 👋🏻
 
 
-**I'm intersted in Full-Stack and ML & DL Algorithms** 
-**MBTI : ENFJ**
+**I'm intersted in Full-Stack and ML & DL Algorithms**                              
+**My MBTI is ENFJ**
 
 Developers who collaborate with different people to develop better apps              
 Developers who have a positive impact on society
