@@ -1,6 +1,8 @@
 ### Hi there, I'm InYoung Sim 👋🏻
 
-**AI Developer / MBTI : ENFJ**
+
+**I'm intersted in Full-Stack and ML & DL Algorithms** 
+**MBTI : ENFJ**
 
 Developers who collaborate with different people to develop better apps              
 Developers who have a positive impact on society
